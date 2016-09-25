@@ -50,7 +50,7 @@
 7. [深入理解linux内核（中文第三版）](https://github.com/onestraw/ebook/blob/master/03_operating_system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 8. [Linux内核编程](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B.pdf)
 9. [The Linux Kernel Module Programming Guide](https://github.com/onestraw/ebook/blob/master/03_operating_system/The%20Linux%20Kernel%20Module%20Programming%20Guide.pdf)
-10. [Linux Device Drivers.3rd.Edition](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf),[中文版](http://oss.org.cn/kernel-book/ldd3/)
+10. [Linux Device Drivers.3rd.Edition](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf),[简体中文版](http://oss.org.cn/kernel-book/ldd3/)[](https://books.google.co.jp/books?id=0ymdsOBDDbEC&pg=PP22&dq=linux+%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BC%8F&hl=zh-CN&sa=X&ved=0ahUKEwiBiOSXlarPAhVDipQKHYZaDqgQ6AEIHjAA)
 11. [鸟哥的Linux私房菜--Basic](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 12. [鸟哥的Linux私房菜--Server](http://vbird.dic.ksu.edu.tw/linux_server/)
 
@@ -62,6 +62,9 @@
 5. [HTTP权威指南](https://github.com/onestraw/ebook/blob/master/04_network/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ###Android
+1. [50 Android Hacks.pdf](https://github.com/AndreaHBJi/ebook/blob/master/05_android/50%20Android%20Hacks.pdf)
+2. [Android Build Process](https://github.com/AndreaHBJi/ebook/blob/master/05_android/Android%20Build%20Process.svg)
+3. [Pro Android C++ with the NDK](https://github.com/AndreaHBJi/ebook/blob/master/05_android/Pro%20Android%20C%2B%2B%20with%20the%20NDK.pdf)
 
 ###其它
 1. [How Google Tests Software](https://github.com/onestraw/ebook/blob/master/09_other/How-Google-Tests-Software.pdf)
